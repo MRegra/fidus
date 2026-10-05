@@ -1,0 +1,14 @@
+# build output
+target/
+*.class
+# local reference material (NOT published: original IST HDS Notary project + course PDFs)
+reference/
+# server runtime state (keys, logs, goods) created by the demo
+storage/
+# IDEs / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# logs
+*.log
