@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["github>MRegra/fedora-workstation-scripts//renovate/default"],
+  "description": [
+    "Scope mirrors the Dependabot config this replaces: Maven (root pom drives every module) and GitHub Actions."
+  ],
+  "enabledManagers": ["maven", "github-actions"]
+}

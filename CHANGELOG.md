@@ -5,6 +5,9 @@ All notable changes to Fidus are documented here. The format follows
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Changed
+- Dependency updates move from Dependabot to self-hosted Renovate (`renovate.json`, weekly grouped PRs; GitHub Dependabot
+  security alerts stay on).
 
 ## [0.2.0] - 2026-10-05
 ### Added
