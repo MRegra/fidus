@@ -4,5 +4,6 @@
   "description": [
     "Scope mirrors the Dependabot config this replaces: Maven (root pom drives every module) and GitHub Actions."
   ],
-  "enabledManagers": ["maven", "github-actions"]
+  "enabledManagers": ["maven", "github-actions"],
+  "dependencyDashboard": true
 }
